@@ -34,3 +34,8 @@ action.foo.increase.subscribe((c)=>{
 });
 
 ```
+## License
+MIT
+
+## keywords
+action tiny event emitter pubsub
